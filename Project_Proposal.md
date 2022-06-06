@@ -1,4 +1,4 @@
-# Final Project Preliminary Proposal
+# Final Project Proposal
 Audrey Qiu | HCDE 410 | Spring 2022 | Dr. Brock Craft
 
 ## Motivation
